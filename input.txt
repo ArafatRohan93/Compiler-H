@@ -1,0 +1,67 @@
+void_main ( )
+{{
+
+$_int_$  a:=50,z:=1, abcd:=21<br> 
+$_int_$  a,m<br>
+$_int_$  z:=2<br>
+$_int_$ i:=1, x:=0, p:=2 <br>
+
+print(z)<br>
+x:=p^3 <br>
+
+
+ m:=10-16/4+10+12*6 <br>
+
+print(m)<br>
+    y:=10 <br>
+
+
+    if (1):
+	    {{ 	
+		1 
+	    }}
+
+
+	if (2 > 1):
+	    {{
+	         if (1):
+	            {{ 5 }}
+	         else:
+	            {{ 7 }}
+	    }}
+
+        else:
+         {{ 9 }}
+
+	if (2 > 3):
+		{{ 1 }}
+	 else:
+	   {{
+	         if (0):
+	            {{ 5 }}
+	         else:
+	           {{ 7 }}
+}}
+for ( x := 0 , x <= 4, x ++ ) 
+{{
+m <br>
+}}
+while(i<5):
+{{
+z<br>
+i++<br>
+}}
+
+print(a)<br>
+
+8! <br>
+	 
+function oddeven1 ( )
+
+$_int_$ function oddeven1 ( )
+	    {{
+           13 <br>
+	    }}
+
+}}
+
